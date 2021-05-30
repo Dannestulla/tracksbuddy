@@ -1,0 +1,3 @@
+rootProject.name = "TracksBuddy2"
+include ':app'
+include ':auth-lib'
